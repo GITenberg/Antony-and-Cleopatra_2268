@@ -1,0 +1,42 @@
+_repo: Antony-and-Cleopatra_2268
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: CLASSIC FICTION (PRE C 1945). Hugely ambitious in its historical focus
+  and vast geographical scope, Antony and Cleopatra is one of Shakespeare's most astonishing
+  tragedies. The drama centres on the relationships between his main protagonists,
+  Octavius Ceasar, Mark Antony and Cleopatra, and the highly charged affair between
+  Mark Antony and the Egyptian queen that forms the backdrop to the pervading theme
+  of struggle between East and West throughout the play. The internal battle of personal
+  emotion and duty that Antony experiences, and the dynamics of power and sexuality
+  portrayed by Cleopatra, give the play its dramatic tension. Rich and complex in
+  its language and poetic in tone, Shakespeare shows how the politics of Rome ultimately
+  cause disaster for a man who is torn between reason and passion.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History -- 332-30 B.C. -- Drama'
+- !lcsh 'Antonius, Marcus, 83?-30 B.C. -- Drama'
+- !lcsh 'Queens -- Egypt -- Drama'
+- !lcsh 'Cleopatra, Queen of Egypt, -30 B.C. -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Romans -- Egypt -- Drama'
+- !lcsh 'Generals -- Rome -- Drama'
+- !lcsh 'Rome -- History -- Civil War, 43-31 B.C. -- Drama'
+title: Antony and Cleopatra
+url: http://www.gutenberg.org/ebooks/2268
